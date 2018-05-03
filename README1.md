@@ -9,5 +9,6 @@ various components
 As stated above, the main purpose is to provide simple examples for Git 
 trainning
 #Deployment
-
-#HOw to contribute
+we have to deploy the application
+#How to contribute
+You have to follow the steps 
