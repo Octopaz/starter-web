@@ -12,3 +12,6 @@ trainning
 we have to deploy the application
 #How to contribute
 You have to follow the steps 
+
+###Copyright
+2018.Git.Traning
