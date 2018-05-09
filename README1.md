@@ -11,7 +11,7 @@ trainning
 #Deployment
 we have to deploy the application
 #How to contribute
-You have to follow the steps 
+Please fork this repository and then issue pull requests for review 
 
 ###Copyright
 2018.Git.Traning
