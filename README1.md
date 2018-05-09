@@ -11,7 +11,11 @@ trainning
 #Deployment
 we have to deploy the application
 #How to contribute
+<<<<<<< HEAD
 Adding steps to follow 
+=======
+Please fork this repository and then issue pull requests for review 
+>>>>>>> simple-changes
 
 ###Copyright
 2018.Git.Traning
