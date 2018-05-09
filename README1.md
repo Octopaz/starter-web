@@ -1,6 +1,6 @@
 # Starter Web Project
 This is simple website project for showing how to use GIt and Github 
-togather
+togather. Adding a line gor rebashing example
 
 ## Introduction
 THis is example is to show different parts of the Git repository and 
