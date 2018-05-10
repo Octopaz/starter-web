@@ -19,4 +19,4 @@ Please fork this repository and then issue pull requests for review
 >>>>>>> simple-changes
 
 ###Copyright
-2018.Git.Traning
+2018.Git.Traning. All rights Reserved
